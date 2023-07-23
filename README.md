@@ -11,16 +11,6 @@ Bu proje Ondokuz Mayıs Üniversitesi Bilgisayar Mühendisliği bölümü Web Pr
 
  ![image](https://user-images.githubusercontent.com/56133248/154103197-e2390754-ca4e-4791-981b-1b27e4340e56.png) Uygulama kodlarına erişmek için -> [Notion](https://dawn-squash-710.notion.site/Web-Projesi-8f3afc4812f34c48b8a6525c09dd1bc9)
 
-
-
-### Ekip :
-
-| İsim  | Link  | Görevi |
-|---|---|---|
-| - 👋 Yasin Ünal  | [GitHub Profili -> ![](https://user-images.githubusercontent.com/56133248/156841715-8667ec6a-2e1c-48ba-a42e-6f6a09ff5478.png)](https://github.com/Pilestin) | Backend, Documentation |
-| - 👋 Osman Büyükşar   | [GitHub Profili -> ![](https://user-images.githubusercontent.com/56133248/156841715-8667ec6a-2e1c-48ba-a42e-6f6a09ff5478.png)](https://github.com/OsmanBuyuksar)  | Backend, Documentation |
-| - 👋 Mazen Alghaberi   | [GitHub Profili -> ![](https://user-images.githubusercontent.com/56133248/156841715-8667ec6a-2e1c-48ba-a42e-6f6a09ff5478.png)](https://github.com/m3zen) | Frontend, Documentation| 
-
 ### Amaç :
 
 - **Online kitap satış platformu**
